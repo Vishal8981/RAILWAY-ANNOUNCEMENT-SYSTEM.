@@ -2,7 +2,6 @@
 To get the job of announcing status of thousands of trains done efficiently.
 It is an automated software which will generate the Railway Station Announcement by maintaining a database of required information in an excel sheet.
 
-Cover Image
 
 Announcement Languages
 Announcement is generated in the below three languages:
@@ -10,8 +9,6 @@ Announcement is generated in the below three languages:
 Hindi
 
 English
-
-Gujarati
 
 Development Environment
 Used Python Language with a bunch of its libraries like pyAudio, pydub, pandas, openpyxl and gTTS to generate announcement status of thousands of trains.
